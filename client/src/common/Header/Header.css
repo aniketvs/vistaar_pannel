@@ -1,0 +1,28 @@
+.nav-container{
+padding: 16px 20px;
+box-shadow: rgba(157, 157, 157, 0.2) 0px 4px 10px;
+}
+.logo-wrapper{
+    width: 147px;
+    height: 40px;
+}
+
+.ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 20%;
+    list-style: none;
+}
+.link{
+    font-family: ui-sans-serif;
+    text-decoration: none;
+    color: grey;
+    font-weight: 500;
+}
+.active{
+    font-family: ui-sans-serif;
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}

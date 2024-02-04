@@ -1,0 +1,20 @@
+.image-container{
+    width: 155px;
+    height: 40px;
+    margin: 10px;
+}
+.login-text{
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #000;
+    line-height: 1.25;
+    text-align: center;
+    font-family: ui-sans-serif;
+}
+.login-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: calc( 100vh - 250px );
+}
